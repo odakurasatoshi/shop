@@ -1,24 +1,26 @@
-# README
+# shop
+## サイト概要
+スポーツ団体が取り扱うTシャツやその他商品の販売、購入ができるサイト
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+### 使い方
+(1.)店員:ログインし、商品を登録
+(2.)顧客:ログインし、商品を選択し購入
+(3.)店員:顧客の注文情報がわかり、発送
 
-Things you may want to cover:
+### サイトテーマ
+店員、顧客の操作が分かりやすい操作
 
-* Ruby version
+### テーマを選んだ理由
+現在の注文や購入方法は顧客がメールで店員に送る方法をとっており、店員側も一通ずつ把握しているため不便だと感じ、
+アプリを作成し不便さを解消させるためです。
 
-* System dependencies
+### ターゲットユーザ
+小学生から50代の男女
 
-* Configuration
+### 主な利用シーン
+(1.)生徒が商品を購入する時
+(2.)先生が生徒の注文門状況を把握したい時
 
-* Database creation
+## 設計書
 
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+### 機能一覧
