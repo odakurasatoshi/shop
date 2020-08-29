@@ -64,3 +64,5 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # ログイン機能
 gem 'devise'
 
+# デバック
+gem 'pry-byebug'
