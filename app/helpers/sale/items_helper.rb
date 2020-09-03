@@ -1,0 +1,2 @@
+module Sale::ItemsHelper
+end
